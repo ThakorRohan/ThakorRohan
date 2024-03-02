@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>Hi 👋, I'm Thakor Rohan<br><br>a passionate DevOps enthusiast who loves deploying things from the internet 🌐 #DevOps<br><br>- 🔭 I’m currently working for StealthRDP<br><br>- 🌱 I’m currently learning #DevOps<br><br>- 📫 How to reach me rohan@StealthRDP.com<br><br>Amazon Web Services, Bash, Docker, Git, Jenkins, Kubernetes, Linux<br><br>
+### Hi there 👋<br><br>Hi 👋, I'm Thakor Rohan<br><br>a passionate DevOps enthusiast who loves deploying things from the internet 🌐 #DevOps<br><br>- 🔭<strong>I’m currently working for <a href="https://stealthrdp.com">StealthRDP</a></strong><br><br>- 🌱 I’m currently learning #DevOps<br><br>- 📫 How to reach me rohan@StealthRDP.com<br><br>Amazon Web Services, Bash, Docker, Git, Jenkins, Kubernetes, Linux<br><br>
 
 
 ## 🌐 Socials:
